@@ -5,12 +5,12 @@ The app is a burger logger with MySQL, Node, Express, Handlebars and a homemade 
 ## Getting Started 
 
 
-##Demo
+## Demo
 ** Add a Burger and Devour it!
 
 ![Giphy](public/assets/img/burger.gif)
 
-##Technologies used 
+## Technologies used 
 -Node.js
 - body-parser NPM Package - https://www.npmjs.com/package/body-parser
 - express NPM Package - https://www.npmjs.com/package/express
@@ -18,5 +18,5 @@ The app is a burger logger with MySQL, Node, Express, Handlebars and a homemade 
 - method-overide NPM Package - https://www.npmjs.com/package/method-override
 - mysql NPM Package - https://www.npmjs.com/package/mysql
 
-##Author
+## Author
 **Julie Nguyen** https://github.com/julienguyen86/Eat-Da-Burger
