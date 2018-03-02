@@ -1,0 +1,72 @@
+body { 
+	background-image: url(https://arcticgrub.files.wordpress.com/2013/05/grill.jpg) ;
+	background-position: center;
+	background-repeat:  no-repeat;
+	background-attachment: fixed;
+	background-size:  cover;
+	background-color: #000000; 
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+	color: black; 
+}
+
+
+li {
+  padding: 15px;
+  margin: 15px;
+  background: #ffffff;
+  list-style: none;
+}
+
+ul {
+	list-style: none;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.center {
+	text-align: center;
+}
+
+img {
+	align-content: center;
+}
+
+h1 {
+	text-align: center;
+	text-shadow: 2px 2px #000000;
+	color: red;
+}
+
+h2 {
+	text-align: center;
+	text-shadow: 2px 2px #000000;
+	color: #ffffff;
+}
+
+.create-form {
+  padding: 25px;
+  margin: 25px;
+  background: #eceff1;
+  border: 1px black solid;
+  opacity: 0.9;
+  text-align: center;
+}
+
+.form-group {
+  margin-bottom: 25px;
+
+}
+
+.btn-primary {
+	border-radius: 15px;
+}
+
+
+.footer {
+	text-align: center;
+	text-shadow: 1px 1px #ffffff;
+}
