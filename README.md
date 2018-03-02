@@ -11,7 +11,7 @@ The app is a burger logger with MySQL, Node, Express, Handlebars and a homemade 
 ![Giphy](public/assets/img/burger.gif)
 
 ## Technologies used 
--Node.js
+- Node.js
 - body-parser NPM Package - https://www.npmjs.com/package/body-parser
 - express NPM Package - https://www.npmjs.com/package/express
 - express-handlebars NPM Package - https://www.npmjs.com/package/express-handlebars
